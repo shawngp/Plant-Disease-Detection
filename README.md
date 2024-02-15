@@ -1,2 +1,2 @@
 # Plant-Disease-Detection
-Plant Disease Detection using a MobileNet, a lightweight CNN.
+Plant Disease Detection using MobileNet, a lightweight CNN.
